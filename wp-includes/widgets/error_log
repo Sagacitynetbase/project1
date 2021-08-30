@@ -1,0 +1,12 @@
+[04-Aug-2021 04:47:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/excelgot/mastertouch.com.ng/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/excelgot/mastertouch.com.ng/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2021 13:09:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/excelgot/mastertouch.com.ng/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/excelgot/mastertouch.com.ng/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Aug-2021 00:03:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/excelgot/mastertouch.com.ng/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/excelgot/mastertouch.com.ng/wp-includes/widgets/class-wp-widget-block.php on line 17
